@@ -28,4 +28,4 @@ jobs:
           goversion: "1.21.0"
           project_path: "."
           binary_name: "requester"
-          extra_files: LICENSE README.md CHANGELOG.md
+          extra_files: LICENSE README.md
